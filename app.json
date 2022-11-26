@@ -1,0 +1,10 @@
+{
+  "name":"bt-akademi-icakar-product",
+
+  "buildpacks":
+          [
+            {
+              "url": "heroku/gradle"
+            }
+          ]
+}
